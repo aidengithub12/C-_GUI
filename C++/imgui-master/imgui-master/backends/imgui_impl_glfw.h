@@ -18,7 +18,7 @@
 // - Introduction, links and more at the top of imgui.cpp
 
 #pragma once
-#include "imgui.h"      // IMGUI_IMPL_API
+#include "C:\\Users\\aiden\\OneDrive\\Documents\\Github\\C-_GUI\\C++\\imgui-master\\imgui-master\\imgui.h"      // IMGUI_IMPL_API
 #ifndef IMGUI_DISABLE
 
 struct GLFWwindow;
